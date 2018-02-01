@@ -1,0 +1,21 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-01-08 00:08:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-01-08 00:20:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-01-08 01:01:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-01-08 01:03:37 --> 404 Page Not Found --> vettage
+ERROR - 2016-01-08 08:16:12 --> 404 Page Not Found --> vettage
+ERROR - 2016-01-08 15:54:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-01-08 16:52:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-01-08 17:21:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-01-08 18:46:33 --> 404 Page Not Found --> robots.txt
+ERROR - 2016-01-08 18:49:05 --> 404 Page Not Found --> vettage
+ERROR - 2016-01-08 19:43:30 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-01-08 19:43:31 --> 404 Page Not Found --> wp-admin
+ERROR - 2016-01-08 22:15:08 --> 404 Page Not Found --> vettage
+ERROR - 2016-01-08 22:15:08 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2016-01-08 22:15:08 --> 404 Page Not Found --> favicon.ico
+ERROR - 2016-01-08 22:15:08 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2016-01-08 22:15:08 --> 404 Page Not Found --> vettage
+ERROR - 2016-01-08 22:15:09 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2016-01-08 22:15:09 --> 404 Page Not Found --> apple-touch-icon.png

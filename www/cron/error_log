@@ -1,0 +1,9 @@
+[17-Apr-2014 07:42:34 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/webapp/public_html/firedust/vettage/cron/calculations.php on line 38
+[17-Apr-2014 07:45:04 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/webapp/public_html/firedust/vettage/cron/calculations.php on line 38
+[17-Apr-2014 07:50:42 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/webapp/public_html/firedust/vettage/cron/calculations.php on line 60
+[17-Apr-2014 07:50:43 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/webapp/public_html/firedust/vettage/cron/calculations.php on line 60
+[17-Apr-2014 07:54:19 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/webapp/public_html/firedust/vettage/cron/calculations.php on line 66
+[17-Apr-2014 07:54:21 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/webapp/public_html/firedust/vettage/cron/calculations.php on line 114
+[17-Apr-2014 07:54:22 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/webapp/public_html/firedust/vettage/cron/calculations.php on line 114
+[17-Apr-2014 07:54:23 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/webapp/public_html/firedust/vettage/cron/calculations.php on line 114
+[17-Apr-2014 07:55:08 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/webapp/public_html/firedust/vettage/cron/calculations.php on line 106

@@ -1,0 +1,25 @@
+## Turn on URL rewriting 
+
+RewriteEngine On  
+
+## Following lines to be used if multiple domains are used to point to master domain   
+## Put your installation directory here:  
+
+RewriteBase /
+
+
+## Do not enable rewriting for files or directories that exist  
+# Protect application and system files from being viewed 
+
+RewriteRule ^(application|core) - [F,L]   
+
+# Allow any files or directories that exist to be displayed directly  
+
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d    
+Rewritecond %{REQUEST_URI} !(^/a/*$) [NC]  
+
+## For requests that are not actual files or directories, rewrite to index.php/URL      
+
+RewriteRule ^(.*)$ index.php?query_string=$1 [PT,QSA,L] 
+RewriteRule ^(ajax_call\.php)$   ajax_call.php/$1 [PT,QSA,L]  
